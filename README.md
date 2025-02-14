@@ -1,2 +1,5 @@
-# PaigeClarkson.github.io
-This repository is to for creating a github page. 
+## Paige's Github Page
+ 
+# Welcome!
+
+Here is the Github page that I have created. 
